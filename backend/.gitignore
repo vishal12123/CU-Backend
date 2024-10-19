@@ -1,0 +1,46 @@
+# Node modules
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+
+# Build output
+dist/
+build/
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# IDE specific files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Optional npm cache directory
+.npm/
+
+# Other files
+package-lock.json
+yarn.lock
+
+# Temporary files
+tmp/
+temp/
+
+# Generated documentation
+docs/
+
+# Test results
+*.result
+*.test.js
+*.spec.js
